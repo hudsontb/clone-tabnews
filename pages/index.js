@@ -9,8 +9,10 @@ function Home() {
       fazendo: estão perdidos. Em um desses desafios, o padre do deserto
       perguntou à antiga serpente: <br></br>- Em que os seres humanos são
       melhores que os anjos caídos? <br></br>- Em nada vocês nos superam. Nós
-      somos melhores em tudo, mas tem algo que apenas os humanos possuem: a
-      humildade. Isto nós não temos de jeito nenhum - Respondeu a serpente.
+      somos melhores em tudo - respondeu a serpente.
+      <br></br>- Nada?
+      <br></br>- Mas tem algo que apenas os humanos possuem: a humildade. Isto
+      nós não temos de jeito nenhum.
     </h1>
   );
 }
