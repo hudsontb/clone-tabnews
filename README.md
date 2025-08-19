@@ -31,6 +31,7 @@ Projeto do curso https://curso.dev -- implementação do site https://peregrinon
 - npm run lint:check -- executar o atalho "lint:check", em que o formatador checa se há alguma divergência entre os arquivos e a formatação padrão definida.
 - npm run lint:fix -- executar o atalho "lint:fix", em que o formatador realiza alterações (escreve) nos códigos, caso haja divergência entre os arquivos e a formatação padrão definida.
 - git add -A -- adicionar TODOS os arquivos criados ou modificados (estágio modified) ou untracked ao estágio commit.
+- git restore 'nome_do_arquivo' -- restaura arquivo(s) para sua versão original, que é antes das modificações realizadas.
 - npm install --save-dev jest@29.6.2 -- instalar o Test Runner Jest na versão referida.
 - npm run test ou npm test -- executar o Jest.
 - npm run test:watch -- executar o Jest de forma simultânea.
