@@ -49,6 +49,9 @@ Projeto do curso https://curso.dev -- implementação do site https://peregrinon
 - docker compose -f infra/compose.yaml up -d -- inserir banco de dados local no conteiner com o caminho até o arquivo .yaml com as configurações do docker compose.
 - npm install pg@8.11.3
 - code jsconfig.json -- criar arquivo através da linha de comando.
+- npm install node-pg-migrate@6.2.2 -- instalar framework de migrations de banco de dados.
+- npm run migration:create 'nome_do_arquivo'.
+- npm install dotenv@16.4.4
 
 ### Aula http
 
